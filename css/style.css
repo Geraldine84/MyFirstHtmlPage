@@ -1,0 +1,32 @@
+
+h1 {
+    color: blueviolet; 
+    text-align: left;
+}
+    
+p {
+        color: blue; 
+        font-family: sans-serif;
+        font-size: 20px;
+}
+    
+h3{
+        color: orangered  ; 
+}
+    
+body {
+        color: black;
+        background-color: greenyellow; 
+        font-family: Arial, Helvetica, sans-serif;
+        text-transform: capitalize;
+        text-decoration: hotpink;
+}
+    
+a:link {
+        color: blue; 
+        background-color: transparent; 
+        text-decoration: underline;
+}
+      
+    
+    
