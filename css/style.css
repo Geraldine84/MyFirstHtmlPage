@@ -15,18 +15,31 @@ h3{
 }
     
 body {
-        color: black;
-        background-color: greenyellow; 
+        color: white;
+        background-color: black;
         font-family: Arial, Helvetica, sans-serif;
         text-transform: capitalize;
         text-decoration: hotpink;
 }
     
 a:link {
-        color: blue; 
+        color: green; 
         background-color: transparent; 
         text-decoration: underline;
 }
+
+a:visited {
+        color: purple;
+ }
       
+     
+ a:hover {
+        color: red;
+ }
+      
+     
+ a:active {
+        color: yellow;
+ }
     
     
